@@ -1,0 +1,14 @@
+div.inner-content
+{
+width:75%;
+background-color:blue;
+margin: 0 auto;
+text-align:center;
+}
+
+div.outer-content{
+width:75%;
+background-color:pink;
+margin-top: 20px;
+padding: 20px;
+}
